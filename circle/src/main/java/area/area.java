@@ -7,7 +7,7 @@
      
             public static void main(String[] args) {
                    
-                    int radius = 1;
+                    int radius = 0;
                     System.out.println("Please enter radius of a circle");
                    
                     try
